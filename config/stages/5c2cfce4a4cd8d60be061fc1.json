@@ -8,6 +8,7 @@
   "details": "$$LOOKUP",
   "id": "5c2cfce4a4cd8d60be061fc1",
   "languageVersion": "0.1.0b3",
+  "position": "1",
   "testFramework": "truffle_with_mocha",
   "codeFileIds": [
     "5c2cfce4a4cd8d60be061fc2",

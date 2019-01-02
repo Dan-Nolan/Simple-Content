@@ -8,6 +8,7 @@
   "type": "CodeStage",
   "language": "solidity",
   "languageVersion": "0.4.19",
+  "position": 0,
   "testFramework": "truffle_with_mocha",
   "codeFileIds": [
     "5c2cfbd9a4cd8d60be061fbe",
