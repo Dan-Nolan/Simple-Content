@@ -1,0 +1,16 @@
+{
+  "containerId": "5c2cfbbca4cd8d60be061fbc",
+  "title": "My Stage",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5c2cfbd9a4cd8d60be061fbd",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.4.19",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "5c2cfbd9a4cd8d60be061fbe",
+    "5c2cfbd9a4cd8d60be061fbf"
+  ]
+}
